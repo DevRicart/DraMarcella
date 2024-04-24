@@ -37,6 +37,10 @@
   color: var(--gray-headline);
 }
 
+#contact .contact_img {
+  border-radius: 5%;
+}
+
 @media (min-width: 1023px) {
   #contact .text h2 {
     font-weight: 700;

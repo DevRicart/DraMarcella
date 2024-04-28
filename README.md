@@ -12,12 +12,6 @@ Esse projeto está sendo feito para criar um site para uma Cirurgiã-Dentista, b
 * [ScrollRevealjs Library](https://scrollrevealjs.org)
 
 
-## Author
-
-- [@devricart](https://github.com/DevRicart)
-
-
-
 ##  Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-gon/)
 
